@@ -5,12 +5,12 @@ const Footer = () => {
         <div className="sm:flex sm:items-center sm:justify-between">
           <a href="https://flowbite.com/" className="flex items-center mb-4 sm:mb-0">
             <img
-              src="https://flowbite.com/docs/images/logo.svg"
-              className="h-8 mr-3"
+              src="https://png.pngtree.com/png-vector/20240529/ourmid/pngtree-an-illustration-of-a-nike-sneaker-with-the-flag-of-the-vector-png-image_6963956.png"
+              className="h-16  transform rotate-45"
               alt="Flowbite Logo"
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">
-              Node Shop.
+              Sneaker Haven
             </span>
           </a>
           <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-white sm:mb-0">

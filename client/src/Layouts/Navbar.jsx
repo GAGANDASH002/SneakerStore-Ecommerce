@@ -52,8 +52,8 @@ const Navbar = () => {
         {/* Logo - Left aligned */}
         <Link to="/" className="flex items-center">
           <img
-            src="https://www.svgrepo.com/show/520948/shopping-bag-4.svg"
-            className="h-8 mr-3"
+            src="https://png.pngtree.com/png-vector/20240529/ourmid/pngtree-an-illustration-of-a-nike-sneaker-with-the-flag-of-the-vector-png-image_6963956.png"
+            className="h-16 ml-5  transform rotate-45"
             alt="Flowbite Logo"
           />
           <span
@@ -61,7 +61,7 @@ const Navbar = () => {
               scrolled ? "text-blue-500" : "text-white"
             }`}
           >
-            Node Shop.
+            Sneaker Haven
           </span>
         </Link>
 
