@@ -2,197 +2,198 @@ const products = [
     {
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
+          "https://images.pexels.com/photos/16947159/pexels-photo-16947159/free-photo-of-sports-shoe-studio-shoot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4.5,
-        numReview: 6,
+        numReview: 5,
+      },
+      {
+        name: "Lorem anim anim",
+        image:
+          "https://i5.walmartimages.com/seo/DD1391-100-Mens-Nike-Dunk-Low-Retro_ba026af8-a266-4613-bc4b-f4e0c1952c6f.f39142e2aa2f9f428ed45834b221c790.jpeg",
+        description:
+          "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
+        price: 98,
+        countInStock: 4,
+        rating: 4.5,
+        numReview: 5,
       },
     
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ee357a7a8aef48d9b295af9e00205eec_9366/Forum_Low_Shoes_White_IE7165_01_standard.jpg",
+          "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018392864_437Wx649H_202307201841491.jpeg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 0,
         rating: 4,
-        numReview: 6,
+        numReview: 46,
       },
     
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a655b830a086442aa041af9c009fcdfc_9366/Stan_Smith_Shoes_White_FZ6429_01_standard.jpg",
+          "https://www.apetogentleman.com/wp-content/uploads/2021/07/jordan-1.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 26,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/584dcc48a1734ca4baf314572273e64e_9366/Stan_Smith_Crepe_Shoes_White_IG5531_01_standard.jpg",
+          "https://images-cdn.ubuy.co.in/634d139d183a133e4d32eaea-nike-air-jordan-1-high-og-unc-university.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 60,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7e1026dbe8248fbbc31ae02002e1a62_9366/Superstar_ADV_Shoes_White_GW6930_01_standard.jpg",
+          "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/11261278/2023/4/21/ca7de421-3d24-4c1b-a922-5641a2f062f61682057816466-HRX-by-Hrithik-Roshan-Men-White-Solid-Gamescape-Sneakers-929-1.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 16,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aebc2dba24cd456a9baaafad0019bac3_9366/Forum_84_Low_ADV_Shoes_Black_IG7581_01_standard.jpg",
+          "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/p/5/3/-original-imah23c4gwtfjrvu.jpeg?q=90&crop=false",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 12,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/418d83e0c655438da814ad1d00eccd79_9366/CUFFED_POM_Black_GQ8103_01_standard.jpg",
+          "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/22088542/2023/4/5/be3e85aa-4f51-4607-840b-06c24966852c1680698240410-Campus-Men-White-Colourblocked-PU-Sneakers-9971680698240321-6.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 79,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/26c21c4b8bcb43d096caaf330079978b_9366/Designed_for_Training_HIIT_Backpack_Grey_HT2441_01_standard.jpg",
+          "https://img.tatacliq.com/images/i17//437Wx649H/MP000000018869727_437Wx649H_202405170753331.jpeg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 400,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7220fd98945942b0a2ceafa50188fc5c_9366/Favorites_Backpack_Turquoise_HY3000_01_standard.jpg",
+          "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/p/g/p/-original-imahfxv2swnxy9cs.jpeg?q=90&crop=false",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 12,
       },
     
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1fbc9be735c54edbbb490628e3804bda_9366/Yoga_Tote_Bag_Pink_HZ5945_01_standard.jpg",
+          "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/u/o/h/-original-imah4er3whhsgxfr.jpeg?q=90&crop=false",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 15,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23092e0453ce4f8085c2ad47018102bb_9366/Superlite_Hat_Black_EX6700_01_standard.jpg",
+          "https://redtape.com/cdn/shop/files/RSL1181_1..jpg?v=1741349823",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 80,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
+          "https://i.pinimg.com/736x/00/3c/9e/003c9e8f292e1f356432e03ea60c0e87.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 80,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
+          "https://i.pinimg.com/736x/d3/72/77/d37277353df67ece5b7297a65956cce8.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 80,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
+          "https://i.pinimg.com/736x/72/6b/07/726b07864a81ca7d19d5d862c8a325db.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 80,
       },
       {
         
         name: "Lorem anim anim",
         image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
+          "https://i.pinimg.com/736x/e5/56/a8/e556a888a1ec5ebcdfc43670b7c4d8e5.jpg",
         description:
           "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
         price: 98,
         countInStock: 4,
         rating: 4,
-        numReview: 6,
+        numReview: 80,
       },
-      {
-        
-        name: "Lorem anim anim",
-        image:
-          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
-        description:
-          "Velit fugiat deserunt veniam adipisicing ad adipisicing proident occaecat enim. Ut irure aliquip tempor veniam pariatur incididunt adipisicing consequat excepteur tempor eiusmod tempor. Occaecat eu velit velit ad nulla commodo commodo dolor consectetur proident reprehenderit sint. Deserunt excepteur incididunt duis voluptate est amet velit incididunt cupidatat excepteur aute. Commodo ea amet ipsum adipisicing amet est nostrud consequat eiusmod non ullamco. Duis amet sint aliqua adipisicing labore mollit.",
-        price: 98,
-        countInStock: 4,
-        rating: 4,
-        numReview: 6,
-      },
+      
+
 ]
 
 module.exports = products;
