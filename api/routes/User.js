@@ -3,7 +3,7 @@ const userRoute = express.Router();
 const AsyncHandler = require("express-async-handler");
 const User = require("../models/User");
 const generateToekn = require("../tokenGenerate");
-const protect = require("../middleware/auth");
+const protect = require("../middleware/Auth");
 
 userRoute.post(
   "/login",
