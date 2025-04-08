@@ -1,1 +1,1 @@
-export const BASE_URL = "https://sneakerstore-ecommerce-1.onrender.com"
+export const BASE_URL = process.env.REACT_APP_BASE_URL

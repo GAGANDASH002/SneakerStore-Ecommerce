@@ -23,14 +23,14 @@ const SneakerBanner = () => {
 
   return (
     <div
-      className="relative w-full min-h-[130vh] flex flex-col items-center justify-center bg-cover bg-center text-white text-center px-10 py-20 overflow-hidden"
-      style={{
-        backgroundImage: "url('https://img.freepik.com/free-photo/3d-shoe-shape-glowing-with-bright-holographic-colors_23-2151037292.jpg?t=st=1743662029~exp=1743665629~hmac=ed306ffdf96ab941b5bb48da0404839e15e2ae0fcb3f227b10216fb96e0589c1&w=1800')",
-        backgroundSize: 'cover',
-        backgroundPosition: 'center 100%',
-        backgroundRepeat: 'no-repeat'
-      }}
-    >
+    className="relative w-full min-h-[130vh] flex flex-col items-center justify-center bg-cover bg-center text-white text-center px-10 py-20 overflow-hidden"
+    style={{
+      backgroundImage: "url('/sneaker-banner.jpg')",
+      backgroundSize: 'cover',
+      backgroundPosition: 'center 100%',
+      backgroundRepeat: 'no-repeat'
+    }}
+  >
       <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/70"></div>
 
       <div className={`relative z-10 transform transition-all duration-1000 ease-out ${loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
@@ -63,15 +63,15 @@ const SneakerBanner = () => {
 const AboutUs = () => {
   return (
     <div
-      id="about-us-section"
-      className="relative w-full min-h-[130vh] flex flex-col items-start justify-start text-white px-10 py-10 text-left"
-      style={{
-        backgroundImage: "url('https://img.freepik.com/free-vector/pink-neon-synthewave-patterned-background-vector_53876-140398.jpg?t=st=1743670012~exp=1743673612~hmac=3b42d863036b5a1f63c3ceda7a83100530b51a13987c0c77e7c312d1593af732&w=1800')",
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        backgroundRepeat: 'no-repeat'
-      }}
-    >
+    id="about-us-section"
+    className="relative w-full min-h-[130vh] flex flex-col items-start justify-start text-white px-10 py-10 text-left"
+    style={{
+      backgroundImage: "url('/aboutus-bg.jpg')",
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      backgroundRepeat: 'no-repeat'
+    }}
+  >
       <div className="absolute inset-0 bg-black/60"></div>
 
       <div className="relative z-10 max-w-4xl">
@@ -153,7 +153,7 @@ const Home = () => {
         id="products-section"
         className="bg-gray-700 bg-opacity-90 rounded-lg shadow-lg p-6 mx-auto max-w-7xl"
         style={{
-          backgroundImage: "url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30632.jpg?t=st=1743663674~exp=1743667274~hmac=4bcc3ea320486e962cf6b697c5b7b6321e50f84c60a17df6cab05c86b0731b6b&w=900')",
+          backgroundImage: "url('/product-bg.jpg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center 100%',
           backgroundRepeat: 'no-repeat'

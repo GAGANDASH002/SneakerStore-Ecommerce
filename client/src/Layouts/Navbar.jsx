@@ -44,8 +44,8 @@ const Navbar = () => {
     <nav
       className={`fixed w-full z-50 transition-all duration-300 ${
         scrolled
-          ? "bg-white/5 backdrop-blur-md shadow-sm dark:bg-gray-900/20 text-black"
-          : "bg-transparent text-white"
+          ? "bg-black/5 backdrop-blur-md shadow-sm dark:bg-gray-900/20 text-black"
+          : "bg-black/20 text-white"
       }`}
     >
       <div className="max-w-screen-xl flex items-center justify-between mx-auto p-4">
