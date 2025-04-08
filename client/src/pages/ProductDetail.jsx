@@ -34,7 +34,7 @@ function ProductDetail() {
           <section className="text-gray-600 body-font overflow-hidden">
             <div className="container px-5 py-24 mx-auto"
             style={{
-              backgroundImage: "url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30632.jpg?t=st=1743663674~exp=1743667274~hmac=4bcc3ea320486e962cf6b697c5b7b6321e50f84c60a17df6cab05c86b0731b6b&w=900')",
+              backgroundImage: "url('/product-bg.jpg')",
               backgroundSize: 'cover',
               backgroundPosition: 'center 100%',
               backgroundRepeat: 'no-repeat'
