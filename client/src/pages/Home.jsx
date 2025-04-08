@@ -62,16 +62,16 @@ const SneakerBanner = () => {
 
 const AboutUs = () => {
   return (
-    <div
-    id="about-us-section"
-    className="relative w-full min-h-[130vh] flex flex-col items-start justify-start text-white px-10 py-10 text-left"
-    style={{
-      backgroundImage: "url('/aboutus-bg.jpg')",
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-      backgroundRepeat: 'no-repeat'
-    }}
-  >
+   <div
+      id="about-us-section"
+      className="relative w-full min-h-[130vh] flex flex-col items-start justify-start text-white px-10 py-10 text-left"
+      style={{
+        backgroundImage: "url('/aboutus-bg.jpg')",
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat'
+      }}
+    >
       <div className="absolute inset-0 bg-black/60"></div>
 
       <div className="relative z-10 max-w-4xl">
@@ -153,7 +153,7 @@ const Home = () => {
         id="products-section"
         className="bg-gray-700 bg-opacity-90 rounded-lg shadow-lg p-6 mx-auto max-w-7xl"
         style={{
-          backgroundImage: "url('/product-bg.jpg')",
+          backgroundImage: "url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30632.jpg?t=st=1743663674~exp=1743667274~hmac=4bcc3ea320486e962cf6b697c5b7b6321e50f84c60a17df6cab05c86b0731b6b&w=900')",
           backgroundSize: 'cover',
           backgroundPosition: 'center 100%',
           backgroundRepeat: 'no-repeat'
