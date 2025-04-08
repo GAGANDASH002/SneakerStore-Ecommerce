@@ -163,7 +163,7 @@ function ProductDetail() {
 
                     {product.countInStock > 0 ? (
                       <div className="flex ml-6 items-center">
-                        <span className="mr-3 text-white">Quality</span>
+                        <span className="mr-3 text-white">Quantity</span>
                         <div className="relative">
                           <select
                             value={qty}
