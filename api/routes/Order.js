@@ -1,6 +1,6 @@
 const express = require("express");
 const orderRoute = express.Router();
-const protect = require("../middleware/auth");
+const protect = require("../middleware/Auth");
 const asyncHandler = require("express-async-handler");
 const Order = require("../models/Order");
 
